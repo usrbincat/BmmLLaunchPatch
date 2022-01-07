@@ -13,7 +13,7 @@
 <br>
 <h2>Important Things to Know</h2>
 <ul>
-<li>The game launches in French, but you can change it: After the intro sequence, you can change the language to English or something else by clicking on the "Settings" icon in the upper right corner of the in-game phone.</li>
+<li>The game launches in French by default, but you can change it: After the intro sequence, you can change the language to English or something else by clicking on the "Settings" icon in the upper right corner of the in-game phone.</li>
 <li>The game forces you to restart from the beginning when you reach an "end," no matter if it's good or bad. It can take a while to replay the game up until the place where you made the "wrong turn." I manually took snapshots of the game's <code>%APPDATA%\BmmL</code> folder about every hour or so, so I wouldn't have to restart from the beginning if I got a bad end. If you're technically savvy enough to do this, I highly recommend it.
 <p>(At least this version of the game doesn't make you <a href="https://www.gdcvault.com/play/1024942/Exploring-Helplessness-in-Games-with">wait real time between every interaction</a>.)</li>
 </ul>
